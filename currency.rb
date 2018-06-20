@@ -7,7 +7,7 @@ end
 
 def eur_to_usd(euro)
   usd = euro / 0.8638
-  puts "Ok! You have #{euro} euros when submitting #{usd} euros"
+  puts "Ok! Inputting #{euros} euros yields #{usd} dollars"
   
 end
 
