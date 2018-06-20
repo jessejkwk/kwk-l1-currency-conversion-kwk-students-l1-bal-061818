@@ -11,4 +11,4 @@ def eur_to_usd(euro)
   
 end
 
-eur_to_usd(10)
+usd_to_eur(10)
